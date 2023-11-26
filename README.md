@@ -10,3 +10,7 @@ Nazywam się Gabriel Filipowicz. Aktualnie studiję informatykę na AGH. Uczęsz
 + piwo 🍻
 + narzekanie na programowanie w C 🥱
 
+# Czemu akurat perkusja
+
+W wieku 8 lat zacząłem dzięki swoim rodzicom naukę gry na instrumentach perkusyjnych. Przez pierwsze 6 lat był to jedynie wstęp do prawidzej gry na zestawie perkusyjnym. Uczę się grać nie tylko na zestawie perkusyjnym. Gram również na takich instrumentach jak marimba czy wibrafon. Samemu bardzo upodobałem sobię marimbę, głównie przez jej charakterystyczny dźwięk i głęboką barwę. W tym roku szkolnym skończę swoją edukację w szkole muzycznej organizując recitaldyplomowy.
+
