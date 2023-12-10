@@ -9,6 +9,7 @@ Nazywam się Gabriel Filipowicz. Aktualnie studiję informatykę na AGH. Uczęsz
 + amatorsko piłkna nożna ⚽
 + piwo 🍻
 + narzekanie na programowanie w C 🥱
+- bajo jajo
 
 # Czemu akurat perkusja
 
